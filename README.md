@@ -4,6 +4,6 @@ In summary, bulk Sr additions only seem to have a meaningful impact on Rb-Sr age
 
 Models were built by Adam Nissen with major intelectual contributions from Dawn Kellett and Kyle Larson.
 
-Isochrons were formed using Isoplotr (Vermeesch, 2018)
+Isochrons were formed using Isoplotr (Vermeesch, 2018).
 
 Vermeesch, Pieter. "IsoplotR: A free and open toolbox for geochronology." Geoscience Frontiers 9, no. 5 (2018): 1479-1493.
