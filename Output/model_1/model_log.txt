@@ -1,0 +1,13 @@
+New RbSr data generated, parameters are:
+n = 50, minimum 85Rb = 1000, maximum 85Rb = 2000, minimum 88Sr = 1, maximum 88Sr = 5, 87Sr/86Sr ratio = 0.724
+-----
+Printed isochron m1_1
+-----
+Bulk addition of Sr standardized to 10 ppm 88 Sr and an 87Sr/86Sr ratio of 0.724
+-----
+Printed isochron m1_2
+-----
+Bulk addition of Sr standardized to 100 ppm 88 Sr and an 87Sr/86Sr ratio of 0.724
+-----
+Printed isochron m1_3
+-----

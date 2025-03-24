@@ -1,0 +1,26 @@
+{
+    "id": "F51D1839",
+    "path": "D:/R_repositories/Adding_Sr/Code/isochron_exploration.R",
+    "project_path": "Code/isochron_exploration.R",
+    "type": "r_source",
+    "hash": "2334784532",
+    "contents": "",
+    "dirty": false,
+    "created": 1719867290022.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,19",
+        "scrollLine": "14"
+    },
+    "folds": "7|33|12|0|\n63|37|82|0|\n84|36|117|0|\n119|56|155|0|\n157|166|164|0|\n166|106|168|0|\n",
+    "lastKnownWriteTime": 1720112758,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1721344852267,
+    "read_only": false,
+    "read_only_alternatives": []
+}
